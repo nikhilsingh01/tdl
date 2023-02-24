@@ -1,0 +1,30 @@
+.header-h2 {
+    background: var(--color-text);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: -webkit-xxx-large;
+    font-family: var(--font-family);
+}
+
+.gk_header-text {
+    padding: 10px;
+    width: 50%;
+    margin-top: 100px;
+    display: inline-block;
+    text-align: left;
+    float: left;
+
+}
+
+.gk_header-text P {
+    margin-top: 20px;
+    font-weight: 500;
+    font-size: large;
+    font-family: var(--font-family);
+}
+
+.gk__header-container {
+    display: block !important;
+    flex-direction: row;
+}

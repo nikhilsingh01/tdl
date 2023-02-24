@@ -1,0 +1,16 @@
+.inp{
+    width: 70%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+ 
+}
+.btn{
+   background-color: rgb(91, 91, 204); 
+   border-radius: 10px;
+   width: 10%;
+   height: 50%;
+}
+.form1{
+    text-align: center;
+}

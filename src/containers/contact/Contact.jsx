@@ -23,6 +23,12 @@ export default function App() {
         <option value='DBMS'>DBMS</option>
         <option value='HTML'>HTML</option>
       </select>
+
+
+
+
+
+      
       <input type='file' {...register("File")}/>
       <button className="btn" type="submit">Submit Message</button>
 
